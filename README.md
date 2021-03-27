@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JitinJohn-17
 - 👀 I’m interested in Web development and Data Science.
-- 🌱 I’m currently learning Computer Science.
+- 🌱 I’m currently learning React.
 - 📫 You can reach through my email jitinjohn17@gmail.com
 
 <!---
